@@ -37,7 +37,7 @@ I use my GitHub to post side-projects I'm working on or have worked on in the pa
 - Docker, Linux and Gradle
 - Blockchain and cryptocurrencies
 - Agile development and leadership positions
-- Machine Learning (TensorFlow, Scikit-Learn, NumPy, Matplotlib, JupyterNotebook)
+- Machine Learning (TensorFlow, Scikit-Learn, NumPy, Matplotlib, JupyterNotebook, Conda, Mamba)
 
 # Education
 
