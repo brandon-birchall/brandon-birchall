@@ -5,6 +5,24 @@ I'm also really interested in **computer hardware design, GPU programming, optim
 
 In my spare time I produce electronic music and I'm also a keen freerunner.
 
+# Experience
+
+I use my GitHub to post side-projects I'm working on or have worked on in the past, feel free to have a look around!
+
+## Specific Skills
+
+- Java, C, Python, GLSL, SQL, JavaScript, Assembly
+- Docker, Linux and Gradle
+- Blockchain and cryptocurrencies
+- Agile development and leadership positions
+- Machine Learning (TensorFlow, Scikit-Learn, NumPy, Matplotlib, JupyterNotebook, Conda, Mamba)
+
+# Education
+
+- Soon to graduate from Lancaster University with a predicted **first class honours  in BSc Computer Science**
+- A Level Mathematics (A), Computer Science (A), Physics (B)
+- AS Level Further Mathematics (A)
+
 # Current Projects
 
 ## Raytracer
@@ -25,23 +43,4 @@ how reflections are calculated as this would typically make a recursive function
 
 I also learned a lot about computer graphics and how realistic scenes can be drawn by mimicking what light does in the real world. This involves a lot of linear
 algebra and vector mathematics which I enjoyed learning in a computer graphics context. 
-
-
-# Experience
-
-I use my GitHub to post side-projects I'm working on or have worked on in the past, feel free to have a look around!
-
-## Specific Skills
-
-- Java, C, Python, GLSL, SQL, JavaScript, Assembly
-- Docker, Linux and Gradle
-- Blockchain and cryptocurrencies
-- Agile development and leadership positions
-- Machine Learning (TensorFlow, Scikit-Learn, NumPy, Matplotlib, JupyterNotebook, Conda, Mamba)
-
-# Education
-
-- Soon to graduate from Lancaster University with a predicted **first class honours  in BSc Computer Science**
-- A Level Mathematics (A), Computer Science (A), Physics (B)
-- AS Level Further Mathematics (A)
 
