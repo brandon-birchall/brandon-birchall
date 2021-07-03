@@ -11,11 +11,12 @@ I use my GitHub to post side-projects I'm working on or have worked on in the pa
 
 ## Specific Skills
 
-- Java, C, Python, GLSL, SQL, JavaScript, Assembly
-- Docker, Linux and Gradle
-- Blockchain and cryptocurrencies
-- Agile development and leadership positions
-- Machine Learning (TensorFlow, Scikit-Learn, NumPy, Matplotlib, JupyterNotebook, Conda, Mamba)
+- Proficient in **Java, C, Python**
+- Knowledge of **GLSL, SQL, JavaScript, Assembly**
+- Machine Learning (**TensorFlow, Scikit-Learn, NumPy, Matplotlib, JupyterNotebook, Conda**)
+- **Docker, Linux and Gradle**
+- **Blockchain** and **cryptocurrencies**
+- Agile development experience and been in leadership positions
 
 # Education
 
