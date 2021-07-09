@@ -26,6 +26,24 @@ I use my GitHub to post side-projects I'm working on or have worked on in the pa
 
 # Current Projects
 
+
+## SnareGAN
+
+### Overview
+
+I learned about deep convolutional GANs and general GAN architectures to attempt to generate Snare Drum sounds. 
+
+### Project Status
+
+The project works and generates interesting sounds which appear to resemble a snare drum moreso than they do noise, however more compute resources and a better understanding of sound/signal processing in the context of AI/GANs is needed to optimize the model to produce better results.
+
+### What I learned
+
+I learned about short-time fourier transforms and how they can be used to better represent a sound in a way in which a neural network can work with. 
+
+I also learned about how GANs work, which is definitely something I plan on learning more about and working on in the future. I think that GANs could be used to improve the quality of images/videos/sounds or even in the far future used to generate them from scratch.
+
+
 ## Raytracer
 
 ### Overview
